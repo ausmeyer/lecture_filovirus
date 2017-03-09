@@ -20,8 +20,9 @@ output:
 ## Road Map
 
 <style type="text/css">
-.reveal { font-size: 26px;}
-.reveal h1 { font-size: 2.0em;}
+.reveal { font-size: 22px;}
+.reveal h1 { font-size: 2.4em;}
+.reveal h2 { font-size: 1.7em;}
 </style>
 
 - Ebolavirus
@@ -80,4 +81,20 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 ![This suggests a continuous reservoir rather than punctuated re-activation](files/EBOV_cds_mb_path.png){width=600px}
 
+## Stable mutations arose in 2014 leading to increased infectivity
+
+![](files/ebola_2014_variants.jpeg){width=600px}
+
+## The primary ecological reservoir is thought to be bats
+
+- Ebolavirus can infect many mammals including pigs, primates, and bats.
+
+- The smoking gun for the bat reservoir has been elusive.
+    - Lots of controversy exists surrounding this issue
+
+- Primate epidemics are relatively common and often precede human outbreaks.
+    - Ebolavirus is infamous for decimating wild primate populations
+    - They are stable aerosols
+    - Aerosolized transfer does occur in non-human primates
+    - Has been shown with SEBOV and ZEBOV in several monkey species
 
