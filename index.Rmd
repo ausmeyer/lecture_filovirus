@@ -6,7 +6,7 @@ output:
   revealjs::revealjs_presentation:
     self_contained: false
     reveal_plugins: ["notes", "search"]
-    incremental: true
+    incremental: false
     highlight: pygments
     center: true
     transition: slide
@@ -40,7 +40,7 @@ output:
 
 ## Outbreaks first recognized in 1976
 
-![](files/ebola_geography.png){width=800px}
+![](files/combined.png){width=900px}
 <aside class="notes">
 Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. They lasted approximately 2 months each and both were fueled by high transmission within local hospitals. At the time, they were reusing syringes. The hospitals were closed and that halted the outbreaks. Ebola Sudan emerged again in 1979 from the same factory that caused the first outbreak. Then, the virus went silent for 15 years. In 1994, there was a single person infected in Ivory Coast with a new strain. Also in 1994, Zaire Ebola became generically active in the border region between Gebon and Republic of Congo. The 1995 Kikwit outbreak was the next big isolated emergence. Then in the 2000s there were a number of outbreaks in Central Africa and the first in Uganda along with the emergence of Bundibugyo. Finally there was the huge Zaire Ebola virus outbreak in 2014.
 </aside>
@@ -86,15 +86,56 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 ![](files/ebola_2014_variants.jpeg){width=600px}
 
 ## The primary ecological reservoir is thought to be bats
+ 
+- The smoking gun for the bat reservoir has been elusive.
+    - Lots of controversy exists surrounding this issue
+    - Experiments w/ wild bats have shown the animals can support the virus w/o becoming ill
 
 - Ebolavirus can infect many mammals including pigs, primates, and bats.
 
-- The smoking gun for the bat reservoir has been elusive.
-    - Lots of controversy exists surrounding this issue
-
 - Primate epidemics are relatively common and often precede human outbreaks.
-    - Ebolavirus is infamous for decimating wild primate populations
+    - Infamous for decimating wild primate populations (particularly gorillas and chimps)
     - They are stable aerosols
     - Aerosolized transfer does occur in non-human primates
     - Has been shown with SEBOV and ZEBOV in several monkey species
+ 
+# Epidemiology in human populations
+
+## How do outbreaks start?
+
+- Index cases are almost always bush hunters
+    - Thought to be transmitted through body fluids of bush meat
+    
+- Almost always a single source introduction
+
+- Secondary transmission rates in humans vary from 5-25%
+
+- Risk for close household contacts is around 25%
+
+- Risk for nurses without protective equipment is upwards of 80%
+
+## How do outbreaks persist?
+
+- Easily passed in virtually all body fluids
+
+- Nosocomial transmission is the single biggest issue
+    - Of 21,000 cases in 2014-2015, about 1000 were healthcare workers
+
+- Household caretakers are also at risk
+
+- Cultural practices contribute to spreading
+    - The virus persists in dead bodies 
+    - Elaborate burial rituals can cause super spreading
+    - During recent outbreak, there were teams of people who burned the bodies
+
+- Early in outbreaks, the syndrome resembles malaria
+
+- Virus can persist in semen and vaginal secretions for a year or more
+    - Current WHO recommendation is abstinence for 3 months after symptom onset
+
+## How do outbreaks end?
+
+- Prior to 2014, outbreaks could be halted simply by closing the hospital
+
+
 
