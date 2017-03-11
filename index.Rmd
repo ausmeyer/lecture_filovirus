@@ -20,9 +20,9 @@ output:
 ## Road Map
 
 <style type="text/css">
-.reveal { font-size: 22px;}
+.reveal { font-size: 16px;}
 .reveal h1 { font-size: 2.4em;}
-.reveal h2 { font-size: 1.7em;}
+.reveal h2 { font-size: 1.8em;}
 </style>
 
 - Ebolavirus
@@ -30,11 +30,11 @@ output:
     - Microbiological basics
     - Evolution and Ecology
     - Epidemiology in human populations
-    - Common presentations
+    - Clinical disease
     - Case confirmation and Treatments
     - Future directions
 - Marburg
-    - What we know about it
+    - What we know
 
 # History of Ebolavirus
 
@@ -135,7 +135,21 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 ## How do outbreaks end?
 
+- The basic reproduction number of Ebola is relatively low
+
 - Prior to 2014, outbreaks could be halted simply by closing the hospital
 
+- In Africa, the disease is often fatal
+    - ZEBOV 1976: 318 cases, 88% CFR
+    - SEBOV 1976: 284 cases, 53% CFR
+    - ZEBOV 1995: 315 cases, 81% CFR
+    - SEBOV 2000: 425 cases, 53% CFR
+    - BEBOV 2007:  56 cases, 41% CFR
+    - BEBOV 2012:  52 cases, 48% CFR
+    
+- Most outbreaks end within 2 months
 
+## How about the 2014 outbreak?
+
+![It was bigger, but otherwise largely similar to earlier outbreaks](files/ebola.png){width=2000px}
 
