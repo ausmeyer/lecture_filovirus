@@ -66,7 +66,7 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 - Outer envelope derived from host-cell membrane
 
-- Human cellular receptor is Endosomal Niemann‐pick type C1 (NPC1)
+- Human cellular receptor is Endosomal Niemannan pick type C1 (NPC1)
 
 # Ebolavirus Evolution and Ecology
 
@@ -125,7 +125,7 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 - Easily passed in virtually all body fluids
 
 - Nosocomial transmission is the single biggest issue
-    - Of 21,000 cases in 2014-2015, about 1000 were healthcare workers
+    - Of 16,000 confirmed cases in 2014-2015, about 1000 were healthcare workers
 
 - Household caretakers and burial practitioners are also at high risk
 
@@ -229,7 +229,7 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
     
 ## Treatment is based on a staging system
 
-
+![](files/ebola_staging.png){width=2000px}
 
 # Outcomes of Ebola infection
 
@@ -245,17 +245,25 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 ![](files/ebola_survivors_all.jpg){width=2000px}
 
+## Even for survivors the long term sequalae can be devastating
+
+
+
 # Infection control measures
 
-## There are now extensive infection control guidelines
+## There are extensive infection control guidelines
+
+
 
 ## Often infection control is easier said than done
 
 # Future directions
 
-## There are numerous vaccine trials
+- Most vaccines are relatively early in development
 
-## The most promising used a cluster randomized design
+## The most promising is Merck's rVSV-vectored ZEBOV
+
+![It was 100% effective, but it was completed as cases were dramatically declining with a cluster-randomized design](files/ebola_vaccine.png){width=2000px}
 
 # Marburg Virus
 
