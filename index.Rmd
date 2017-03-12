@@ -30,8 +30,9 @@ output:
     - Microbiological basics
     - Evolution and Ecology
     - Epidemiology in human populations
-    - Clinical disease
-    - Case confirmation and Treatments
+    - Infection course
+    - Case confirmation and Treatment
+    - Infection control measures
     - Future directions
 - Marburg
     - What we know
@@ -128,6 +129,8 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
     - Elaborate burial rituals can cause super spreading
     - During recent outbreak, there were teams of people who burned the bodies
 
+- Early in diease, the syndrome resembles the flu
+
 - Early in outbreaks, the syndrome resembles malaria
 
 - Virus can persist in semen and vaginal secretions for a year or more
@@ -153,3 +156,38 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 ![It was bigger, but otherwise largely similar to earlier outbreaks](files/ebola.png){width=2000px}
 
+# Infection course
+
+## Preclinical infection
+
+## Clinical disease
+
+## Postclinical sequelae
+
+# Case confirmation and Treatment
+
+## Testing is straightforward
+
+## Treatment is limited, but effective
+
+# Infection control measures
+
+## There are now extensive infection control guidelines
+
+## Often infection control is easier said than done
+
+# Future directions
+
+## There are numerous vaccine trials
+
+## The most promising used a cluster randomized design
+
+# Marburg Virus
+
+# What we know? Not much.
+
+## A little history of the virus
+
+## What it looks like
+
+## What to expect in the future
