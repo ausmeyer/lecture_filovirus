@@ -41,7 +41,7 @@ output:
 
 ## Outbreaks first recognized in 1976
 
-![](files/combined.png){width=900px}
+![](files/combined.png){width=2000px}
 <aside class="notes">
 Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. They lasted approximately 2 months each and both were fueled by high transmission within local hospitals. At the time, they were reusing syringes. The hospitals were closed and that halted the outbreaks. Ebola Sudan emerged again in 1979 from the same factory that caused the first outbreak. Then, the virus went silent for 15 years. In 1994, there was a single person infected in Ivory Coast with a new strain. Also in 1994, Zaire Ebola became generically active in the border region between Gebon and Republic of Congo. The 1995 Kikwit outbreak was the next big isolated emergence. Then in the 2000s there were a number of outbreaks in Central Africa and the first in Uganda along with the emergence of Bundibugyo. Finally there was the huge Zaire Ebola virus outbreak in 2014.
 </aside>
@@ -50,7 +50,7 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 ## Ebolavirus has an extremely characteristic look
 
-![Bacilliform filamentous virus particles](files/Ebola_virus_virion.jpg){width=800px}
+![Bacilliform filamentous virus particles](files/Ebola_virus_virion.jpg){width=2000px}
 
 ## Specific molecular notes
 
@@ -72,19 +72,19 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 ## There are five clades of Ebolavirus
 
-![Four of the clades are known to infect humans. Reston found in The Hot Zone](files/filovirus_phylogeny.jpg){width=800px}
+![Four of the clades are known to infect humans. Reston found in The Hot Zone](files/filovirus_phylogeny.jpg){width=2000px}
 
 ## The most active recently in West Africa was ZEBOV
 
-![](files/EBOV_cds_mb_rootedTree.png){width=900px}
+![](files/EBOV_cds_mb_rootedTree.png){width=2000px}
 
 ## ZEBOV has been evolving continously since its emergence
 
-![This suggests a continuous reservoir rather than punctuated re-activation](files/EBOV_cds_mb_path.png){width=600px}
+![This suggests a continuous reservoir rather than punctuated re-activation](files/EBOV_cds_mb_path.png){height=600px}
 
 ## Stable mutations arose in 2014 leading to increased infectivity
 
-![](files/ebola_2014_variants.jpeg){width=600px}
+![](files/ebola_2014_variants.jpeg){height=600px}
 
 ## The primary ecological reservoir is thought to be bats
  
@@ -235,15 +235,15 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 ## Young people with low viral load tend to survive: Guinea
 
-![](files/ebola_survivors.jpeg){width=900px}
+![](files/ebola_survivors.jpeg){width=2000px}
 
 ## Young people with low viral load tend to survive: Sierra Leone
 
-![](files/ebola_survivors_age_vl.jpeg){width=800px}
+![](files/ebola_survivors_age_vl.jpeg){width=2000px}
 
 ## However, there are many good mortality predictors
 
-![](files/ebola_survivors_all.jpg){width=900px}
+![](files/ebola_survivors_all.jpg){width=2000px}
 
 # Infection control measures
 
