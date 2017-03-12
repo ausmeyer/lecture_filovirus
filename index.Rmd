@@ -194,7 +194,7 @@ Our best information comes from 2014 ZEBOV and there is obviously some variation
     
 ## Clinical disease of 37 cases in 2014
 
-![](files/ebola_symptoms.jpeg){height=700px}
+![](files/ebola_symptoms.jpeg){height=600px}
 
 <aside class="notes">
 The syndrome is extremely non-specific and overlaps with many regional diseases
@@ -202,11 +202,11 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 ## Rare symptoms were diagnostic markers in 2014 DRC outbreak
 
-![](files/ebola_symptoms_2.jpeg){width=800px}
+![](files/ebola_symptoms_2.jpeg){height=600px}
 
 ## Time course of the disease can be useful for treatment
 
-![](files/ebola_timeline.png){height=800px}
+![](files/ebola_timeline.png){height=600px}
 
 # Case confirmation and Treatment
 
