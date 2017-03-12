@@ -117,28 +117,30 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 ## How do outbreaks persist?
 
+- Failure of recognition often leads to major nosocomial explosion early
+    - The syndrome resembles malaria and influenza
+    - Early in outbreaks, the spread resembles the flu
+    - Differential also includes Measles, Lassa Fever, Typhoid and Meningoccocal infection (also Marburg)
+
 - Easily passed in virtually all body fluids
 
 - Nosocomial transmission is the single biggest issue
     - Of 21,000 cases in 2014-2015, about 1000 were healthcare workers
 
-- Household caretakers are also at risk
+- Household caretakers and burial practitioners are also at high risk
 
 - Cultural practices contribute to spreading
     - The virus persists in dead bodies 
     - Elaborate burial rituals can cause super spreading
     - During recent outbreak, there were teams of people who burned the bodies
 
-- Early in diease, the syndrome resembles the flu
-
-- Early in outbreaks, the syndrome resembles malaria
-
 - Virus can persist in semen and vaginal secretions for a year or more
-    - Current WHO recommendation is abstinence for 3 months after symptom onset
+
+- Current WHO recommendation is abstinence for 3 months after symptom onset
 
 ## How do outbreaks end?
 
-- The basic reproduction number of Ebola is relatively low
+- The basic reproduction number of Ebola is relatively low and less than 1 with interventions (this is no SARS)
 
 - Prior to 2014, outbreaks could be halted simply by closing the hospital
 
@@ -158,17 +160,90 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 # Infection course
 
-## Preclinical infection
+## Preclinical infection course is highly variable
 
-## Clinical disease
+![95% of cases have symptom onset within 21 days of exposure, mean incubation time is 11.4](files/ebola_incubation.jpeg){height=600px}
 
-## Postclinical sequelae
+<aside class="notes">
+Our best information comes from 2014 ZEBOV and there is obviously some variation between species.
+</aside>
+
+## Clinical disease according to CDC case definition
+
+- CDC case definition
+    - Elevated body temperature or subjective fever or symptoms, including severe headache, fatigue, muscle pain, vomiting, diarrhea, abdominal pain, or unexplained hemorrhage; **AND**
+    - An **epidemiologic risk factor** within the 21 days before the onset of symptom
+
+- High Risk
+    - Needlestick from symptomatic individuals
+    - Direct contact with infected person **while not wearing appropriate PPE**
+    - Lab processing of body fluids **while not wearing appropriate PPE**
+    - Providing direct care to a person showing symptoms of Ebola in a household setting
+- Some Risk
+    - Any country: Being in close contact with infected person
+    - Country with widespread transmission: Direct contact with infected person **while wearing appropriate PPE**
+    - Country with widespread transmission: Being in an ETU
+    - Country with widespread transmission: Providing any care to an infected person
+- Low Risk
+    - Any country: Brief contact with infected person (shaking hands) w/o wearing PPE
+    - Any country: Lab processing of fluids while wearing appropriate PPE and following standard biosafety precautions
+    - Any country w/o widespread transmission: Direct contact with infected person **while wearing appropriate PPE**
+    - Being in a country with widepsread transmission and nothing else
+- No Risk
+    - Everything else
+    
+## Clinical disease of 37 cases in 2014
+
+![](files/ebola_symptoms.jpeg){height=700px}
+
+<aside class="notes">
+The syndrome is extremely non-specific and overlaps with many regional diseases
+</aside>
+
+## Rare symptoms were diagnostic markers in 2014 DRC outbreak
+
+![](files/ebola_symptoms_2.jpeg){width=800px}
+
+## Time course of the disease can be useful for treatment
+
+![](files/ebola_timeline.png){height=800px}
 
 # Case confirmation and Treatment
 
 ## Testing is straightforward
 
-## Treatment is limited, but effective
+- All tests including viral load can be undetectable until about **3 days after symptoms**
+
+- First few days
+    - Antigen-capture enzyme-linked immunosorbent assay (ELISA) testing
+    - IgM ELISA
+    - rtPCR
+    - Virus isolation
+
+- After recovery: IgM and IgG antibodies
+
+- After death
+    - Immunohistochemistry testing
+    - rtPCR
+    - Virus isolation
+    
+## Treatment is based on a staging system
+
+
+
+# Outcomes of Ebola infection
+
+## Young people with low viral load tend to survive: Guinea
+
+![](files/ebola_survivors.jpeg){width=900px}
+
+## Young people with low viral load tend to survive: Sierra Leone
+
+![](files/ebola_survivors_age_vl.jpeg){width=800px}
+
+## However, there are many good mortality predictors
+
+![](files/ebola_survivors_all.jpg){width=900px}
 
 # Infection control measures
 
