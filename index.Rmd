@@ -20,9 +20,9 @@ output:
 ## Road Map
 
 <style type="text/css">
-.reveal { font-size: 16px;}
-.reveal h1 { font-size: 2.4em;}
-.reveal h2 { font-size: 1.8em;}
+.reveal { font-size: 22px;}
+.reveal h1 { font-size: 1.7em;}
+.reveal h2 { font-size: 1.4em;}
 </style>
 
 - Ebolavirus
@@ -267,7 +267,7 @@ Table 2 Early clinical sequelae of Ebola virus disease in Sierra Leone
 
 ## The most promising is Merck's rVSV-vectored ZEBOV vaccine
 
-![It was 100% effective, but it was completed as cases were dramatically declining with a cluster-randomized design](files/ebola_vaccine.png){width=2000px}
+![It was 100% effective, but it was completed as cases were dramatically declining](files/ebola_vaccine.png){width=2000px}
 
 # Marburg Virus
 
