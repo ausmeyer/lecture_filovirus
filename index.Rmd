@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output:
   revealjs::revealjs_presentation:
     self_contained: false
-    reveal_plugins: ["notes", "search"]
+    reveal_plugins: ["notes"]
     incremental: false
     highlight: pygments
     center: true
