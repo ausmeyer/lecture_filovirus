@@ -189,8 +189,6 @@ Our best information comes from 2014 ZEBOV and there is obviously some variation
     - Any country: Lab processing of fluids while wearing appropriate PPE and following standard biosafety precautions
     - Any country w/o widespread transmission: Direct contact with infected person **while wearing appropriate PPE**
     - Being in a country with widepsread transmission and nothing else
-- No Risk
-    - Everything else
     
 ## Clinical disease of 37 cases in 2014
 
@@ -255,7 +253,7 @@ Table 2 Early clinical sequelae of Ebola virus disease in Sierra Leone
 
 # Infection control measures
 
-## Infection control PPE are extensive
+## Infection control PPE protocol is extensive
 
 ![](files/ebola_ppe.png){height=600px}
 
