@@ -241,7 +241,7 @@ Table 3 Ebola virus disease and critical illness
 
 ## Young people with low viral load tend to survive: Sierra Leone
 
-![](files/ebola_survivors_age_vl.jpeg){width=2000px}
+![](files/ebola_survivors_age_vl.jpeg){height=575px}
 
 ## However, there are many good mortality predictors
 
