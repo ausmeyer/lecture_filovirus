@@ -68,7 +68,7 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 - Outer envelope derived from host-cell membrane
 
-- Human cellular receptor is Endosomal Niemann‐pick type C1 (NPC1)
+- Human cellular receptor is Endosomal Niemannan pick type C1 (NPC1)
 
 # Ebolavirus Evolution and Ecology
 
@@ -82,11 +82,11 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 ## ZEBOV has been evolving continously since its emergence
 
-![This suggests a continuous reservoir rather than punctuated re-activation](files/EBOV_cds_mb_path.png){height=600px}
+![This suggests a continuous reservoir rather than punctuated re-activation](files/EBOV_cds_mb_path.png){height=575px}
 
 ## Stable mutations arose in 2014 leading to increased infectivity
 
-![](files/ebola_2014_variants.jpeg){height=600px}
+![](files/ebola_2014_variants.jpeg){height=575px}
 
 ## The primary ecological reservoir is thought to be bats
  
@@ -127,7 +127,7 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 - Easily passed in virtually all body fluids
 
 - Nosocomial transmission is the single biggest issue
-    - Of 21,000 cases in 2014-2015, about 1000 were healthcare workers
+    - Of 16,000 confirmed cases in 2014-2015, about 1000 were healthcare workers
 
 - Household caretakers and burial practitioners are also at high risk
 
@@ -164,7 +164,7 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 ## Preclinical infection course is highly variable
 
-![95% of cases have symptom onset within 21 days of exposure, mean incubation time is 11.4](files/ebola_incubation.jpeg){height=600px}
+![95% of cases have symptom onset within 21 days of exposure, mean incubation time is 11.4](files/ebola_incubation.jpeg){height=575px}
 
 <aside class="notes">
 Our best information comes from 2014 ZEBOV and there is obviously some variation between species.
@@ -191,12 +191,10 @@ Our best information comes from 2014 ZEBOV and there is obviously some variation
     - Any country: Lab processing of fluids while wearing appropriate PPE and following standard biosafety precautions
     - Any country w/o widespread transmission: Direct contact with infected person **while wearing appropriate PPE**
     - Being in a country with widepsread transmission and nothing else
-- No Risk
-    - Everything else
     
 ## Clinical disease of 37 cases in 2014
 
-![](files/ebola_symptoms.jpeg){height=600px}
+![](files/ebola_symptoms.jpeg){height=575px}
 
 <aside class="notes">
 The syndrome is extremely non-specific and overlaps with many regional diseases
@@ -204,11 +202,11 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 ## Rare symptoms were diagnostic markers in 2014 DRC outbreak
 
-![](files/ebola_symptoms_2.jpeg){height=600px}
+![](files/ebola_symptoms_2.jpeg){height=575px}
 
 ## Time course of the disease can be useful for treatment
 
-![](files/ebola_timeline.png){height=600px}
+![](files/ebola_timeline.png){height=575px}
 
 # Case confirmation and Treatment
 
@@ -229,9 +227,13 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
     - rtPCR
     - Virus isolation
     
-## Treatment is based on a staging system
+## In field, treatment is generally based on a staging system
 
+![](files/ebola_staging.png){width=2000px}
 
+## In ICU, treatment varies widely and survival is better
+
+Table 3 Ebola virus disease and critical illness
 
 # Outcomes of Ebola infection
 
@@ -241,23 +243,31 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 ## Young people with low viral load tend to survive: Sierra Leone
 
-![](files/ebola_survivors_age_vl.jpeg){width=2000px}
+![](files/ebola_survivors_age_vl.jpeg){height=575px}
 
 ## However, there are many good mortality predictors
 
 ![](files/ebola_survivors_all.jpg){width=2000px}
 
+## Even for survivors the early sequalae can challenging
+
+Table 2 Early clinical sequelae of Ebola virus disease in Sierra Leone
+
 # Infection control measures
 
-## There are now extensive infection control guidelines
+## Infection control PPE protocol is extensive
+
+![](files/ebola_ppe.png){height=575px}
 
 ## Often infection control is easier said than done
 
 # Future directions
 
-## There are numerous vaccine trials
+- Most vaccines are relatively early in development
 
-## The most promising used a cluster randomized design
+## The most promising is Merck's rVSV-vectored ZEBOV vaccine
+
+![It was 100% effective, but it was completed as cases were dramatically declining](files/ebola_vaccine.png){height=575px}
 
 # Marburg Virus
 
