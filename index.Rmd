@@ -1,5 +1,5 @@
 ---
-title: Filovirus infectio
+title: Filovirus infections
 author: Austin G. Meyer
 date: "`r Sys.Date()`"
 output:
