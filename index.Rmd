@@ -231,6 +231,10 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 ![](files/ebola_staging.png){width=2000px}
 
+## On presentation, most patients are actually in Stage 2
+
+![](files/EVD_stages.png){height=650px}
+
 ## In ICU, treatment varies widely and survival is better
 
 ![](files/EVD_critical.png){height=650px}
@@ -249,7 +253,7 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 ![](files/ebola_survivors_all.jpg){width=2000px}
 
-## Even for survivors the early sequalae can challenging
+## For survivors, features of early sequelae are predictable
 
 ![](files/EVD_sequelae.png){height=650px}
 
