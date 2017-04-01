@@ -82,11 +82,11 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 ## ZEBOV has been evolving continously since its emergence
 
-![This suggests a continuous reservoir rather than punctuated re-activation](files/EBOV_cds_mb_path.png){height=575px}
+![This suggests a continuous reservoir rather than punctuated re-activation](files/EBOV_cds_mb_path.png){height=650px}
 
 ## Stable mutations arose in 2014 leading to increased infectivity
 
-![](files/ebola_2014_variants.jpeg){height=575px}
+![](files/ebola_2014_variants.jpeg){height=650px}
 
 ## The primary ecological reservoir is thought to be bats
  
@@ -164,7 +164,7 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 ## Preclinical infection course is highly variable
 
-![95% of cases have symptom onset within 21 days of exposure, mean incubation time is 11.4](files/ebola_incubation.jpeg){height=575px}
+![95% of cases have symptom onset within 21 days of exposure, mean incubation time is 11.4](files/ebola_incubation.jpeg){height=650px}
 
 <aside class="notes">
 Our best information comes from 2014 ZEBOV and there is obviously some variation between species.
@@ -194,7 +194,7 @@ Our best information comes from 2014 ZEBOV and there is obviously some variation
     
 ## Clinical disease of 37 cases in 2014
 
-![](files/ebola_symptoms.jpeg){height=575px}
+![](files/ebola_symptoms.jpeg){height=650px}
 
 <aside class="notes">
 The syndrome is extremely non-specific and overlaps with many regional diseases
@@ -202,11 +202,11 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 ## Rare symptoms were diagnostic markers in 2014 DRC outbreak
 
-![](files/ebola_symptoms_2.jpeg){height=575px}
+![](files/ebola_symptoms_2.jpeg){height=650px}
 
 ## Time course of the disease can be useful for treatment
 
-![](files/ebola_timeline.png){height=575px}
+![](files/ebola_timeline.png){height=650px}
 
 # Case confirmation and Treatment
 
@@ -233,7 +233,7 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 ## In ICU, treatment varies widely and survival is better
 
-Table 3 Ebola virus disease and critical illness
+![](files/EVD_critical.png){height=650px}
 
 # Outcomes of Ebola infection
 
@@ -243,7 +243,7 @@ Table 3 Ebola virus disease and critical illness
 
 ## Young people with low viral load tend to survive: Sierra Leone
 
-![](files/ebola_survivors_age_vl.jpeg){height=575px}
+![](files/ebola_survivors_age_vl.jpeg){height=650px}
 
 ## However, there are many good mortality predictors
 
@@ -251,13 +251,13 @@ Table 3 Ebola virus disease and critical illness
 
 ## Even for survivors the early sequalae can challenging
 
-Table 2 Early clinical sequelae of Ebola virus disease in Sierra Leone
+![](files/EVD_sequelae.png){height=650px}
 
 # Infection control measures
 
 ## Infection control PPE protocol is extensive
 
-![](files/ebola_ppe.png){height=575px}
+![](files/ebola_ppe.png){height=650px}
 
 ## Often infection control is easier said than done
 
@@ -267,7 +267,7 @@ Table 2 Early clinical sequelae of Ebola virus disease in Sierra Leone
 
 ## The most promising is Merck's rVSV-vectored ZEBOV vaccine
 
-![It was 100% effective, but it was completed as cases were dramatically declining](files/ebola_vaccine.png){height=575px}
+![It was 100% effective, but it was completed as cases were dramatically declining](files/ebola_vaccine.png){height=650px}
 
 # Marburg Virus
 
