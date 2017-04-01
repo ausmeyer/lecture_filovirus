@@ -72,6 +72,7 @@
     <script src="index_files/reveal.js-3.3.0/lib/js/html5shiv.js"></script>
     <![endif]-->
 
+    <link href="index_files/font-awesome-4.5.0/css/font-awesome.min.css" rel="stylesheet" />
 </head>
 <body>
   <div class="reveal">
@@ -318,8 +319,8 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 <figure>
 <img src="files/EVD_stages.png" height="650" />
 </figure>
-</section><section id="in-icu-treatment-varies-widely-and-survival-is-better" class="slide level2">
-<h2>In ICU, treatment varies widely and survival is better</h2>
+</section><section id="in-modern-icu-treatment-varies-widely-and-survival-is-better" class="slide level2">
+<h2>In modern ICU, treatment varies widely and survival is better</h2>
 <figure>
 <img src="files/EVD_critical.png" height="650" />
 </figure>
@@ -397,11 +398,23 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
         height: 768,
 
 
+        chalkboard: {
+        },
+
+        keyboard: {
+          67: function() { RevealChalkboard.toggleNotesCanvas() },    // toggle notes canvas when 'c' is pressed
+          66: function() { RevealChalkboard.toggleChalkboard() }, // toggle chalkboard when 'b' is pressed
+          46: function() { RevealChalkboard.clear() },    // clear chalkboard when 'DEL' is pressed
+           8: function() { RevealChalkboard.reset() },    // reset chalkboard data on current slide when 'BACKSPACE' is pressed
+          68: function() { RevealChalkboard.download() }, // downlad recorded chalkboard drawing when 'd' is pressed
+        },
+
         // Optional reveal.js plugins
         dependencies: [
           { src: 'index_files/reveal.js-3.3.0/plugin/notes/notes.js', async: true },
           { src: 'index_files/reveal.js-3.3.0/plugin/search/search.js', async: true },
           { src: 'index_files/reveal.js-3.3.0/plugin/zoom-js/zoom.js', async: true },
+          { src: 'index_files/reveal.js-3.3.0/plugin/chalkboard/chalkboard.js', async: true },
         ]
       });
     </script>
