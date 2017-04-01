@@ -14,8 +14,6 @@ output:
     reveal_options:
       slideNumber: true
       previewLinks: true
-      width: 960
-      height: 700
 
 ---
 
