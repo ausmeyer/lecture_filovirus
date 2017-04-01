@@ -235,7 +235,7 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 ![](files/EVD_stages.png){height=650px}
 
-## In ICU, treatment varies widely and survival is better
+## In modern ICU, treatment varies widely and survival is better
 
 ![](files/EVD_critical.png){height=650px}
 
