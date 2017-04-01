@@ -12,6 +12,7 @@ output:
     transition: slide
     fig_caption: true
     reveal_options:
+      overview: false
       slideNumber: true
       previewLinks: true
       width: 1024
