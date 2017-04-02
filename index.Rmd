@@ -28,8 +28,11 @@ output:
 .reveal h2 { font-size: 1.8em;}
 </style>
 
+- Generics about filoviruses
+    - General classification
+    - Molecular biology
 - Ebolavirus
-    - Brief history
+    - History of Ebola infections
     - Microbiological basics
     - Evolution and Ecology
     - Epidemiology in human populations
@@ -38,7 +41,38 @@ output:
     - Infection control measures
     - Future directions
 - Marburg
-    - What we know
+    - History of Marburg infections
+    
+# Generics about filoviruses
+
+## General Classification
+
+- BSL-4 Agents
+
+- They are moderately hardy
+    - Killed by 30 minutes at \(60^o\)
+    - Somewhat resistant to dessication
+    - Infecitivity is significantly reduced by UV light, lipid solvents, and many other disinfectants
+
+- All are bioterrorism select agents    
+
+## Specific molecular notes
+
+- Genome is (-)ssRNA
+    - Has approximately 19,000 bases
+    - Very similar to paramyxoviruses and rhabdoviruses
+    - Codes for only 7 genes
+    - Encodes RNA-dependent RNA polymerase like other (-)ssRNA viruses
+
+- Very error prone polymerase would be expected to lead to high mutagenesis
+
+- Until the recent outbreak, structure of binding/fusion glycoprotein was unkown
+
+- Outer envelope derived from host-cell membrane
+
+- Ebola uses human cellular receptor is Endosomal Niemannan pick type C1 (NPC1)
+
+# Ebolaviruses
 
 # History of Ebolavirus
 
@@ -55,27 +89,11 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 
 ![Bacilliform filamentous virus particles](files/Ebola_virus_virion.jpg){width=2000px}
 
-## Specific molecular notes
-
-- Genome is (-)ssRNA
-    - Has approximately 19,000 bases
-    - Very similar to paramyxoviruses and rhabdoviruses
-    - Codes for only 7 genes
-    - Encodes RNA-dependent RNA polymerase like other (-)ssRNA viruses
-
-- Very error prone polymerase would be expected to lead to high mutagenesis
-
-- Until the recent outbreak, structure of binding/fusion glycoprotein was unkown
-
-- Outer envelope derived from host-cell membrane
-
-- Human cellular receptor is Endosomal Niemannan pick type C1 (NPC1)
-
 # Ebolavirus Evolution and Ecology
 
 ## There are five clades of Ebolavirus
 
-![Four of the clades are known to infect humans. Reston found in The Hot Zone](files/filovirus_phylogeny.jpg){width=2000px}
+![Four of the clades are known to infect humans. Reston found in The Hot Zone](files/Filo_Tree.png){height=650px}
 
 ## The most active recently in West Africa was ZEBOV
 
@@ -276,10 +294,30 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 # Marburg Virus
 
-# What we know? Not much.
+# Not a whole lot is known. <br> Only one species has been characterized.
 
 ## A little history of the virus
 
-## What it looks like
+![There have been very few cases](files/MRV_outbreaks.png){height=650px}
 
-## What to expect in the future
+## Distribution of Marburg Virus outbreaks
+
+![](files/marburg-distribution-map.jpg){height=650px}
+
+## Marburg doesn't sort as easily on a tree
+
+![Notice they are not in temporal order](files/Filo_Tree.png){height=650px}
+
+## Beyond some minor genetic differences
+
+- Epidemiology is poorly characterized due to limited size and remoteness of outbreaks
+    - At least one of the outbreaks originated in a bat infested mine
+    - Geography appears to the same as EBOV
+    
+- Disease
+    - Symptoms and course are similar to EBOV
+    - Marburg virus hemorrhagic fever appears to be more deadly than EBOV
+
+- Sequelae are not well described
+
+# The End
