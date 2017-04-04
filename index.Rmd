@@ -17,7 +17,6 @@ output:
       previewLinks: true
       width: 1024
       height: 768
-
 ---
 
 ## Road Map
@@ -42,6 +41,7 @@ output:
     - Future directions
 - Marburg
     - History of Marburg infections
+    - Epidemiology and Phylogeny of Marburg
     
 # Generics about filoviruses
 
@@ -70,7 +70,7 @@ output:
 
 - Outer envelope derived from host-cell membrane
 
-- Ebola uses human cellular receptor is Endosomal Niemannan pick type C1 (NPC1)
+- Ebola uses human cellular receptor is Endosomal Niemann pick type C1 (NPC1)
 
 # Ebolaviruses
 
@@ -158,6 +158,9 @@ Two outbreaks occurred simultaneously in 1976 with Ebola Sudan and Ebola Zaire. 
 - Virus can persist in semen and vaginal secretions for a year or more
 
 - Current WHO recommendation is abstinence for 3 months after symptom onset
+
+- A large fraction of infections may be asymptomatic
+    - Explains the apparent burnout and subsequent reactivation cycle in several areas
 
 ## How do outbreaks end?
 
@@ -312,11 +315,11 @@ The syndrome is extremely non-specific and overlaps with many regional diseases
 
 - Epidemiology is poorly characterized due to limited size and remoteness of outbreaks
     - At least one of the outbreaks originated in a bat infested mine
-    - Geography appears to the same as EBOV
+    - Geography is similar to that of EBOV
     
 - Disease
     - Symptoms and course are similar to EBOV
-    - Marburg virus hemorrhagic fever appears to be more deadly than EBOV
+    - Marburg virus hemorrhagic fever may be more deadly than SEBOV and is probably more similar to ZEBOV
 
 - Sequelae are not well described
 
